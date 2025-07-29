@@ -1,4 +1,4 @@
-# Campus Voting App
+# Campus Event Voting App
 
 A full-stack voting system that allows college students to log in, vote on campus proposals, and even pitch their own ideas — built using Python, Flask, Tkinter, and MySQL.
 
