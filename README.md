@@ -6,7 +6,7 @@ A full-stack voting system that allows college students to log in, vote on campu
 
 ## Contents
 
-- 'setup_databse.py': Sets up MySQL database with tables and sample data
+- 'setup_database.py': Sets up MySQL database with tables and sample data
 - 'app.py': Flask backend application
 - 'routes.py': API endpoints for login, proposals, voting, pitching
 - 'client_gui.py': Tkinter GUI client for students
